@@ -1,0 +1,29 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+#intro {
+    font-size: larger;
+    text-align: center;
+}
+#weapon {
+    font-size:larger;
+    text-align:center ;
+}
+#Napit {
+    text-align: center;
+    
+} 
+#prompt {
+    font-size: xx-large;
+    font-family:sans-serif;
+}
+#scoret {
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#aijasa {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
