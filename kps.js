@@ -1,4 +1,4 @@
-/*
+/* Testing simple button interactions
 function kivi (){
     let txt;
     let pelaaja;
