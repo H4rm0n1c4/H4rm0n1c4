@@ -1,3 +1,4 @@
+
 h1 {
     font-family: sans-serif;
     text-align: center;
@@ -26,4 +27,8 @@ h1 {
 #aijasa {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ai-choice {
+    text-align: center;
+    font-size: large;
 }
